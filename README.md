@@ -1,16 +1,8 @@
-```
-    ╔═══════════════════════════════════════╗
-    ║                                       ║
-    ║          allan nuwamanya              ║
-    ║                                       ║
-    ║  Systems. Infrastructure. AI.         ║
-    ║                                       ║
-    ║         Build. Ship. Repeat.          ║
-    ║                                       ║
-    ╚═══════════════════════════════════════╝
-```
+# allan nuwamanya
 
-### Tech Stack
+Systems. Infrastructure. AI.
+
+Build. Ship. Repeat.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,python,cpp,javascript,react,nextjs,nodejs,fastapi&perline=8" alt="tech stack row 1" />
