@@ -1,8 +1,6 @@
 # Allan Nuwamanya
 
-**Systems · Infrastructure · AI**
-
-Building reliable systems, artificial intelligence pipelines, and software that ships.
+Building reliable systems
 
 **Build. Ship. Repeat.**
 
