@@ -1,4 +1,4 @@
-**AI, systems, and whatever's worth building.**
+**whatever's worth building.**
 
 **Build. Ship. Repeat.**
 
