@@ -1,4 +1,4 @@
-# Artificial Intelligence
+**AI, systems, and whatever's worth building.**
 
 **Build. Ship. Repeat.**
 
