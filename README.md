@@ -1,14 +1,41 @@
-# Hi, I'm Allan Nuwamanya (@allannuwamanya)
+<div align="center">
 
-**whatever's worth building.** Build. Ship. Repeat.
+<img src="banner.svg" alt="Allan Nuwamanya (allannuwamanya): systems engineer, infrastructure, AI" width="100%">
 
-Software engineer from Uganda. Co-founder of [Langratia](https://langratia.com/), a custom software studio, and a BSc Software Engineering student at Mbarara University of Science & Technology, graduating in 2027. I work on web applications, backend systems, infrastructure and AI tools.
+<br>
 
-🏆 **#12 top GitHub committer in Uganda** on [committers.app](https://committers.app/uganda) (October 2026)
+[![Website](https://img.shields.io/badge/Website-allannuwamanya.tech-2fbd7e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allannuwamanya.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-allannuwamanya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannuwamanya/)
+[![X](https://img.shields.io/badge/X-@allannuwamanya__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/allannuwamanya_)
+[![Email](https://img.shields.io/badge/Email-allan.info.comp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan.info.comp@gmail.com)
 
-## Find me
+**whatever's worth building.** · *Build. Ship. Repeat.*
 
-- 🌐 Website and portfolio: [allannuwamanya.tech](https://allannuwamanya.tech)
-- 💼 LinkedIn: [linkedin.com/in/allannuwamanya](https://www.linkedin.com/in/allannuwamanya/)
-- 𝕏 X: [@allannuwamanya_](https://x.com/allannuwamanya_)
-- ✉️ Email: [allan.info.comp@gmail.com](mailto:allan.info.comp@gmail.com)
+</div>
+
+<br>
+
+I'm a software engineer from Uganda who builds web applications, backend systems, infrastructure and AI tools.
+
+|  |  |
+| --- | --- |
+| 🚀 **Building** | Co-founder of [Langratia](https://langratia.com/), a custom software and enterprise engineering studio |
+| 🎓 **Studying** | BSc Software Engineering at Mbarara University of Science & Technology, graduating 2027 |
+| 🏆 **Ranked** | [#12 top GitHub committer in Uganda](https://committers.app/uganda), committers.app, October 2026 |
+| 📍 **Based** | Kampala and Mbarara, Uganda, working remotely |
+| 🌐 **Portfolio** | [allannuwamanya.tech](https://allannuwamanya.tech), with [projects](https://allannuwamanya.tech/projects/), [experience](https://allannuwamanya.tech/experience/) and [certifications](https://allannuwamanya.tech/certifications/) |
+
+<br>
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</div>
