@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Allan Nuwamanya (allannuwamanya): systems engineer, infrastructure, AI" width="100%">
+<img src="header.svg" alt="Allan Nuwamanya (allannuwamanya), #12 top GitHub committer in Uganda" width="100%">
 
 <br>
 
