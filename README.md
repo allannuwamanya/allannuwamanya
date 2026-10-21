@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="header.svg" #12 top GitHub committer in Uganda" width="100%">
-
 <br>
 
 [![Website](https://img.shields.io/badge/Website-allannuwamanya.tech-2fbd7e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allannuwamanya.tech)
