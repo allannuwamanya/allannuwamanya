@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" #12 top GitHub committer in Uganda" width="100%">
+<img src="header.svg" width="100%">
 
 <br>
 
@@ -21,7 +21,7 @@ I'm a software engineer from Uganda who builds web applications, backend systems
 | --- | --- |
 | 🚀 **Building** | Co-founder of [Langratia](https://langratia.com/), a custom software and enterprise engineering studio |
 | 🎓 **Studying** | BSc Software Engineering at Mbarara University of Science & Technology, graduating 2027 |
-| 🏆 **Ranked** | [#12 top GitHub committer in Uganda](https://committers.app/uganda), committers.app, October 2026 |
+| 🏆 **Ranked** | [![#12 GitHub committer in Uganda](https://img.shields.io/badge/%2312%20GitHub%20committer%20in%20Uganda-2fbd7e?style=flat-square)](https://committers.app/uganda) |
 | 📍 **Based** | Kampala and Mbarara, Uganda, working remotely |
 | 🌐 **Portfolio** | [allannuwamanya.tech](https://allannuwamanya.tech), with [projects](https://allannuwamanya.tech/projects/), [experience](https://allannuwamanya.tech/experience/) and [certifications](https://allannuwamanya.tech/certifications/) |
 
