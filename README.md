@@ -2,10 +2,10 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-allannuwamanya.tech-2fbd7e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allannuwamanya.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-allannuwamanya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannuwamanya/)
-[![X](https://img.shields.io/badge/X-@allannuwamanya__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/allannuwamanya_)
-[![Email](https://img.shields.io/badge/Email-allan.info.comp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan.info.comp@gmail.com)
+<a href="https://allannuwamanya.tech"><img src="https://cdn.simpleicons.org/googlechrome/2fbd7e" alt="Website" width="22" height="22"></a>
+<a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22"></a>
+<a href="https://x.com/allannuwamanya_"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="22" height="22"></a>
+<a href="mailto:allan.info.comp@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="22" height="22"></a>
 
 **whatever's worth building.** · *Build. Ship. Repeat.*
 
