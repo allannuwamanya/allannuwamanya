@@ -2,10 +2,22 @@
 
 <br>
 
-<a href="https://allannuwamanya.tech"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" alt="Website" width="22" height="22"></a>
-<a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="22" height="22"></a>
-<a href="https://x.com/allannuwamanya_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="X" width="22" height="22"></a>
-<a href="mailto:allan.info.comp@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email" width="22" height="22"></a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://allannuwamanya.tech"><img src="https://img.shields.io/badge/-%232FBD7E?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website"><br><sub>Website</sub></a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://img.shields.io/badge/-%230A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"><br><sub>LinkedIn</sub></a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/allannuwamanya_"><img src="https://img.shields.io/badge/-%23000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"><br><sub>X</sub></a>
+    </td>
+    <td align="center">
+      <a href="mailto:allan.info.comp@gmail.com"><img src="https://img.shields.io/badge/-%23EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"><br><sub>Email</sub></a>
+    </td>
+  </tr>
+</table>
 
 **whatever's worth building.** · *Build. Ship. Repeat.*
 
