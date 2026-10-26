@@ -2,10 +2,10 @@
 
 <br>
 
-<a href="https://allannuwamanya.tech"><img src="https://cdn.simpleicons.org/googlechrome/2fbd7e" alt="Website" width="22" height="22"></a>
-<a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22"></a>
-<a href="https://x.com/allannuwamanya_"><img src="https://cdn.simpleicons.org/x/000000" alt="X" width="22" height="22"></a>
-<a href="mailto:allan.info.comp@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="22" height="22"></a>
+<a href="https://allannuwamanya.tech"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" alt="Website" width="22" height="22"></a>
+<a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="22" height="22"></a>
+<a href="https://x.com/allannuwamanya_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="X" width="22" height="22"></a>
+<a href="mailto:allan.info.comp@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email" width="22" height="22"></a>
 
 **whatever's worth building.** · *Build. Ship. Repeat.*
 
