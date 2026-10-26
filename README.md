@@ -1,23 +1,9 @@
 <div align="center">
 
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://allannuwamanya.tech"><img src="https://img.shields.io/badge/-%232FBD7E?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website"><br><sub>Website</sub></a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/allannuwamanya/"><img src="https://img.shields.io/badge/-%230A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"><br><sub>LinkedIn</sub></a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/allannuwamanya_"><img src="https://img.shields.io/badge/-%23000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"><br><sub>X</sub></a>
-    </td>
-    <td align="center">
-      <a href="mailto:allan.info.comp@gmail.com"><img src="https://img.shields.io/badge/-%23EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"><br><sub>Email</sub></a>
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2FBD7E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allannuwamanya.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allannuwamanya/)
+[![X](https://img.shields.io/badge/X-1F2328?style=for-the-badge&logo=x&logoColor=white)](https://x.com/allannuwamanya_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allan.info.comp@gmail.com)
 
 **whatever's worth building.** · *Build. Ship. Repeat.*
 
